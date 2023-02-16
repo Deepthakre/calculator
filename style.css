@@ -1,0 +1,64 @@
+
+#clear{  
+
+    background-color: rgb(242, 158, 3);  
+}  
+#equal{  
+    border-radius: 60px; 
+    width: 120px; 
+    background-color: rgb(242, 158, 3);  
+ }  
+  
+.formstyle  
+{  
+width: 300px;  
+height: 500px;  
+margin: auto;  
+margin-top: 40px;
+border: 3px solid rgb(6, 6, 6);  
+border-radius: 20px;  
+background-color: rgb(251, 253, 253);
+padding: 20px;  
+box-shadow: 10px 10px 5px 12px rgb(96, 126, 136);
+}  
+  
+#one{
+    background-color: rgb(242, 158, 3);  
+
+}
+input  
+{  
+width: 20px;  
+background-color: rgb(147, 150, 150);  
+color: rgb(7, 1, 1);  
+border: 3px solid rgb(192, 209, 209);  
+    border-radius: 20px;  
+    padding: 26px;  
+    margin: 5px;  
+    margin-top: 7px;
+    font-size: 20px;  
+    text-align: center;
+    align-items: center;
+    height: 20px;
+
+}  
+#textval{  
+width: 250px;  
+background-color: rgb(252, 252, 251); 
+border: 5px solid (192, 209, 209);  
+    border-radius: 1px;  
+    padding: 20px;  
+    margin: auto;  
+    
+}  
+/* input:hover{
+    background-color: rgb(89, 213, 204);
+}  */
+/* #clear:hover{
+    background-color: rgb(89, 213, 204);
+} */
+ 
+/* .formstyle:hover{
+    background-color: rgb(246, 123, 7);
+} */
+
